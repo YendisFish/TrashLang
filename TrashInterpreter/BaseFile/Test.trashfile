@@ -1,0 +1,6 @@
+﻿base {
+	hair string = hello
+	number a = 77
+
+	loop(a > 76 : output/string)
+}
